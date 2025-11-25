@@ -140,4 +140,4 @@ export default function Home() {
       </footer>
     </div>
   );
-}
+}// Deploy trigger: Tue Nov 25 00:56:14 UTC 2025
